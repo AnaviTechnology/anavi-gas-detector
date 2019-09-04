@@ -1,6 +1,6 @@
-# ANAVI Thermometer
+# ANAVI Gas Detector
 
-ANAVI Thermometer is an open source hardware development board that acts like a WiFi smart thermometer. It features:
+ANAVI Gas Detector is an open source hardware development board that acts like a WiFi smart gas detector. It features:
 
 * ESP8266 WiFi microcontroller
 * DHT22 sensor for temperature and humidity
@@ -9,7 +9,7 @@ ANAVI Thermometer is an open source hardware development board that acts like a 
 * Slots for up to 3 plug and play I2C sensors for temperature, barometric pressure, humidity and light
 * UART (Universal asynchronous receiver/transmitter) pins for debugging
 
-Open source software for ANAVI Thermometer written as an Arduino sketch is also available at GitHub](https://github.com/AnaviTechnology/anavi-thermometer-sw).
+Open source software for ANAVI Gas Detector written as an Arduino sketch is also available at GitHub](https://github.com/AnaviTechnology/anavi-gas-detector-sw).
 
 # License
 
